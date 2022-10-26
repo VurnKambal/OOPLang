@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Dog
+comment1.params=color\ numOfLegs
+comment1.target=Dog(java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=name
+comment3.target=void\ setName(java.lang.String)
+comment4.params=
+comment4.target=void\ showInfo()
+numComments=5
