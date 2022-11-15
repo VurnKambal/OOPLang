@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Hotel
+comment1.params=name\ roomTypes
+comment1.target=Hotel(java.lang.String,\ RoomType[])
+comment2.params=
+comment2.target=RoomType[]\ getRoomTypes()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=Extra\ getSnacks()
+comment5.params=
+comment5.target=Extra\ getBeverages()
+comment6.params=
+comment6.target=Extra\ getMembership()
+comment7.params=
+comment7.target=Extra\ getBeds()
+comment8.params=
+comment8.target=Extra[]\ getAvailableExtras()
+numComments=9

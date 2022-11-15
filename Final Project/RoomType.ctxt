@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=RoomType
+comment1.params=label\ services
+comment1.target=RoomType(java.lang.String,\ java.lang.String[])
+comment2.params=
+comment2.target=java.lang.String\ getLabel()
+comment3.params=label
+comment3.target=void\ setLabel(java.lang.String)
+comment4.params=
+comment4.target=double\ getPrice()
+comment5.params=price
+comment5.target=void\ setPrice(double)
+comment6.params=
+comment6.target=java.lang.String[]\ getServices()
+comment7.params=services
+comment7.target=void\ setServices(java.lang.String[])
+numComments=8
