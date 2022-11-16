@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Extra
+comment1.params=label\ price
+comment1.target=Extra(java.lang.String,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getLabel()
+comment3.params=label
+comment3.target=void\ setLabel(java.lang.String)
+comment4.params=
+comment4.target=double\ getPrice()
+comment5.params=price
+comment5.target=void\ setPrice(double)
+numComments=6
